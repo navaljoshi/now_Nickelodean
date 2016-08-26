@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\naval\Desktop\Nikalodean\now\JabongShareApp\build\intermediates\exploded-aar\now\facebook\unspecified\jars\libs\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\Users\naval\Desktop\Nikalodean\now\JabongShareApp\build\intermediates\pre-dexed\release\bolts-android-1.2.0-3104d81323c5c9b28ed9f3933cca7afb29fb0238.jar" />
+    </item>
+    <item
+        jar="C:\Users\naval\Desktop\Nikalodean\now\JabongShareApp\build\intermediates\exploded-aar\now\facebook\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="7acb069a6dc409b7cbb8807747c59367dace7433">
+        <dex dex="C:\Users\naval\Desktop\Nikalodean\now\JabongShareApp\build\intermediates\pre-dexed\release\classes-859ff47692f0f590a34e449c136038ea81775448.jar" />
+    </item>
+    <item
+        jar="C:\Users\naval\Desktop\Nikalodean\now\JabongShareApp\build\intermediates\exploded-aar\now\facebook\unspecified\jars\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="efec67655f6db90757faa37201efcee2a9ec3507">
+        <dex dex="C:\Users\naval\Desktop\Nikalodean\now\JabongShareApp\build\intermediates\pre-dexed\release\android-support-v4-ed59322a8f96cbd3af5b088830919030bc645bde.jar" />
+    </item>
+    <item
+        jar="C:\Users\naval\Desktop\Nikalodean\now\JabongShareApp\libs\twitter4j-core-4.0.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="381cf31e9200c2902782f17248d2af18e2ab4c56">
+        <dex dex="C:\Users\naval\Desktop\Nikalodean\now\JabongShareApp\build\intermediates\pre-dexed\release\twitter4j-core-4.0.2-11fe50285a9229c8e743ac44dd5c74076b276339.jar" />
+    </item>
+    <item
+        jar="C:\Users\naval\Desktop\Nikalodean\now\JabongShareApp\build\intermediates\exploded-aar\now\Main\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="64a9b0ffbf8da9cc55ab0d307e4a8278408813f6">
+        <dex dex="C:\Users\naval\Desktop\Nikalodean\now\JabongShareApp\build\intermediates\pre-dexed\release\classes-face7b04685dae8df8bedb5f5d931ce2476ce0d7.jar" />
+    </item>
+
+</items>

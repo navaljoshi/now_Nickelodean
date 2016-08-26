@@ -1,0 +1,128 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:2:1-73:12
+	package
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:3:5-35
+	android:versionName
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:5:5-30
+	android:versionCode
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml
+		INJECTED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:7:5-9:10
+MERGED from [now_Nickelodean:facebook:unspecified] C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\build\intermediates\exploded-aar\now_Nickelodean\facebook\unspecified\AndroidManifest.xml:24:5-43
+	android:minSdkVersion
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:8:9-35
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:12:6-82
+	android:name
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:12:23-79
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:14:5-71
+	android:name
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:14:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:15:5-72
+	android:name
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:15:22-70
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:16:22-76
+application
+ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:19:5-71:19
+MERGED from [now_Nickelodean:facebook:unspecified] C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\build\intermediates\exploded-aar\now_Nickelodean\facebook\unspecified\AndroidManifest.xml:26:5-20
+MERGED from [now_Nickelodean:Main:unspecified] C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\build\intermediates\exploded-aar\now_Nickelodean\Main\unspecified\AndroidManifest.xml:7:5-19:19
+	android:label
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:23:9-41
+	android:allowBackup
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:21:9-35
+	android:icon
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:24:9-38
+	android:largeHeap
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:25:9-33
+activity#com.example.facebook.MainActivity
+ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:26:9-47:20
+	android:screenOrientation
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:29:13-50
+	android:label
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:28:13-45
+	android:name
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:27:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:33:27-74
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:36:14-46:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:37:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:39:17-76
+	android:name
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:39:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:40:17-78
+	android:name
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:40:27-75
+data
+ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:42:17-45:24
+	android:host
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:43:21-45
+	android:scheme
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:44:21-43
+activity#com.example.facebook.WebViewActivity
+ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:49:10-52:15
+	android:label
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:51:13-45
+	android:name
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:50:13-64
+activity#com.facebook.FacebookActivity
+ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:54:9-57:75
+	android:label
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:56:13-45
+	android:theme
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:57:13-72
+	android:name
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:55:13-57
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:61:9-63:46
+	android:value
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:63:13-43
+	android:name
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:62:13-58
+provider#com.facebook.FacebookContentProvider
+ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:66:9-68:36
+	android:authorities
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:66:19-96
+	android:exported
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:68:11-34
+	android:name
+		ADDED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:67:11-62
+activity#br.com.dina.oauth.instagram.Main
+ADDED from [now_Nickelodean:Main:unspecified] C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\build\intermediates\exploded-aar\now_Nickelodean\Main\unspecified\AndroidManifest.xml:10:9-18:20
+	android:label
+		ADDED from [now_Nickelodean:Main:unspecified] C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\build\intermediates\exploded-aar\now_Nickelodean\Main\unspecified\AndroidManifest.xml:12:13-45
+	android:name
+		ADDED from [now_Nickelodean:Main:unspecified] C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\build\intermediates\exploded-aar\now_Nickelodean\Main\unspecified\AndroidManifest.xml:11:13-60
+android:uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\naval\Desktop\Android\now_Nickelodean\JabongShareApp\AndroidManifest.xml:2:1-73:12 reason: br.com.dina.oauth.instagram has a targetSdkVersion < 4

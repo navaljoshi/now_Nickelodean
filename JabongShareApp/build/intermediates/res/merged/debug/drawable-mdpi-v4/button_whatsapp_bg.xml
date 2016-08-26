@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" >
+        <shape>
+            <solid
+                android:color="#8FBC8F" />
+            <stroke
+                android:width="1dp"
+                android:color="#8FBC8F" />
+            <corners
+                android:radius="1dp" />
+           
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <gradient
+                android:startColor="#8FBC8F"
+                android:endColor="#8FBC8F"
+                android:angle="270" />
+            <stroke
+                android:width="1dp"
+                android:color="#8FBC8F" />
+            <corners
+                android:radius="1dp" />
+           
+        </shape>
+    </item>
+</selector><!-- From: file:/C:/Users/naval/Desktop/Android/now_Nickelodean/JabongShareApp/res/drawable-mdpi/button_whatsapp_bg.xml -->

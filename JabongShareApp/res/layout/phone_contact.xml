@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_compose_pin"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+     android:background="@android:color/white">
+
+  
+          <View 
+              android:id="@+id/line1"
+        android:layout_width="match_parent"
+        android:layout_height="10dip"
+       />
+          
+          <TextView
+              android:id="@+id/txtName"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="Name"
+               android:layout_below="@id/line1"
+              android:layout_marginTop="10dip"
+               android:layout_marginLeft="10dip"
+               android:textColor="@android:color/black"
+              
+              />
+        
+
+    <EditText
+        android:id="@+id/myname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       android:layout_below="@id/line1"
+       android:layout_toRightOf="@id/txtName"
+         android:layout_marginTop="10dip"
+        android:layout_marginRight="10dip"
+        android:layout_marginLeft="20dip"
+      android:layout_alignBaseline="@id/txtName"
+        android:textColor="@android:color/black"
+      android:background="@drawable/edit_text_for_phone_background"
+        android:padding="10dip"
+        android:hint="  "
+     
+        android:maxLength="16"
+        android:textSize="15sp" />
+    
+    
+         <TextView
+              android:id="@+id/txtContact"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="Number"
+                android:layout_marginTop="5dip"
+               android:layout_below="@id/myname"
+               android:layout_marginLeft="10dip"
+                android:textColor="@android:color/black"
+          />
+        
+
+    <EditText
+        android:id="@+id/mycontact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       android:layout_below="@id/myname"
+       android:layout_marginTop="5dip"
+       android:layout_toRightOf="@id/txtContact"
+        android:layout_marginRight="10dip"
+        android:layout_marginLeft="10dip"
+      android:layout_alignBaseline="@id/txtContact"
+       android:textColor="@android:color/black"
+     android:background="@drawable/edit_text_for_phone_background"
+        android:padding="10dip"
+       
+        android:hint="   "
+        android:inputType="number"
+        android:maxLength="16"
+        android:textSize="15sp" />
+    
+   
+
+</RelativeLayout>

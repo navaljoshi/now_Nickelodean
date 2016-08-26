@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/naval/Desktop/Android/now_Nickelodean/JabongShareApp/build/intermediates/exploded-aar/now_Nickelodean/facebook/unspecified/res/values-in/values-in.xml -->
+    <eat-comment/>
+    <string name="messenger_send_button_text">Kirim</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval" >
+
+    <gradient
+        android:angle="360"
+    />
+ 
+    <solid android:color="#fe5e3a" />
+
+    
+
+</shape><!-- From: file:/C:/Users/naval/Desktop/Nikalodean/now/JabongShareApp/res/drawable/solid_rounded_button.xml -->
